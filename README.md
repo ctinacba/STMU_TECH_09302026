@@ -45,10 +45,10 @@ There is one login for each paid plan. All four use the password **`Stmu_1852`**
 
 | Username | Plan | Price | What you'll see |
 |---|---|---|---|
-| `RattlerLiteSmall` | Lite Small Business | $300/month | 5 laptops, 10 questions each. The health calendar, full analyzer, Reviews and most Educational content are locked. |
-| `RattlerPremSmall` | Premium Small Business | $333/month | 5 laptops, 10 questions each. Every page and feature. |
-| `RattlerLiteMid` | Lite Mid-Size Business | $500/month | 10 laptops, 20 questions each. Same limits as Lite Small. |
-| `Rattlerman` | Premium Mid-Size Business | $667/month | 10 laptops, 20 questions each. Every page and feature. |
+| `RattlerLiteSmall` | Lite Small Business | $300/month | 5 products, 10 questions each. The health calendar, full analyzer, Reviews and most Educational content are locked. |
+| `RattlerPremSmall` | Premium Small Business | $333/month | 5 products, 10 questions each. Every page and feature. |
+| `RattlerLiteMid` | Lite Mid-Size Business | $500/month | 10 products, 20 questions each. Same limits as Lite Small. |
+| `Rattlerman` | Premium Mid-Size Business | $667/month | 10 products, 20 questions each. Every page and feature. |
 
 The earlier name `RattlerLight` still works and signs in as Lite Small Business.
 
@@ -64,7 +64,7 @@ The earlier name `RattlerLight` still works and signs in as Lite Small Business.
    - **Client success stories:** three example clients.
    - **Sponsored banner:** at the bottom of each public page.
    - **About**, **Mission** and **Governance & Ethics:** these cover who we serve, sustainability, accountability, security, data consent and advertising rules.
-2. **Sign in as `Rattlerman`,** then enter the demo code.
+2. **Sign in as `Rattlerman`,** then enter the demo code. Rattlerman account allows to see ALL dashboards and webpages.
 3. **Overview:** switch engines and **New / Baseline / New vs baseline**, then pick a product. Every score shows its formula.
 4. **Report:** look at the emergency banner and **Underperforming products**. In the **Visibility health calendar**, switch to **Weekly and forecast**. Scroll to the **AI error list** and filter it by engine.
 5. **Queries:** open a question, then **View answer evidence**. In **Hallucination detection**, verified flags can be approved; flags marked **Consultant verifying** can't be approved yet.
