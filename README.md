@@ -1,4 +1,4 @@
-# VeriQuo, Final
+# VeriQuo
 
 **Visibility Beyond the Status Quo.** A one-stop SEO and GEO (generative engine optimization) platform for small and mid-size businesses, especially underrepresented ones.
 
