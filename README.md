@@ -1,6 +1,6 @@
 # VeriQuo, Final
 
-**Visibility Beyond the Status Quo.** A one-stop SEO and GEO (generative engine optimization) platform for small and mid-size businesses, especially minority-owned and underrepresented ones.
+**Visibility Beyond the Status Quo.** A one-stop SEO and GEO (generative engine optimization) platform for small and mid-size businesses, especially underrepresented ones.
 
 Built by St. Mary's University for the 2026 HSI Battle of the Brains case, *"The New Front Door: Trustworthy AI Product Discovery."*
 
@@ -11,7 +11,7 @@ Built by St. Mary's University for the 2026 HSI Battle of the Brains case, *"The
 
 ## What the application does
 
-Shoppers increasingly ask AI assistants what to buy. VeriQuo tracks how ChatGPT, Gemini and Copilot recommend and describe a business's products, flags wrong facts, and pairs the data with human IT strategy consultants who help the business fix things in its own voice. The demo client is **Rattler Tech Supply**, a fictional minority-owned computer retailer in San Antonio that sells 10 Dell laptops, including the XPS 15 (9530). Dell Technologies appears only as VeriQuo's infrastructure partner (Sovereign AI).
+Shoppers increasingly ask AI assistants what to buy. VeriQuo tracks how ChatGPT, Gemini and Copilot recommend and describe a business's products, flags wrong facts, and pairs the data with human IT strategy consultants who help the business fix things in its own voice. The demo client is **Rattler Tech Supply**, a fictional computer retailer in San Antonio that sells 10 Dell laptops, including the XPS 15 (9530). Dell Technologies appears only as VeriQuo's infrastructure partner (Sovereign AI).
 
 - **Overview:** the Visibility score, inclusion rate, recommendation share, position, fact accuracy and hallucination rate, per engine, with new vs baseline comparisons.
 - **Report:**
