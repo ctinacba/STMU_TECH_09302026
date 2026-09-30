@@ -1,4 +1,4 @@
-# VeriQuo, Iteration 3
+# VeriQuo, Final
 
 **Visibility Beyond the Status Quo.** A one-stop SEO and GEO (generative engine optimization) platform for small and mid-size businesses, especially minority-owned and underrepresented ones.
 
@@ -94,7 +94,7 @@ One **answer** is one shopper question asked to one AI engine on one day.
 
 ## How to run it
 
-**Easiest:** open the hosted link (add your GitHub Pages or Vercel URL here), or double-click `index.html`. No install is needed.
+**Easiest:** open the hosted link [ https://veriquo.netlify.app ] or double-click `index.html`. No install is needed.
 
 ```bash
 ./run.sh          # serves on http://localhost:8080
